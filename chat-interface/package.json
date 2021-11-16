@@ -18,7 +18,7 @@
     "typescript": "^2.7.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.220.1",
+    "aws-sdk": "^2.814.0",
     "micro": "^9.1.4",
     "node-fetch": "^2.1.2",
     "require-env": "^0.2.1"
