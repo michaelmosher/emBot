@@ -14,7 +14,7 @@
     "@slack/client": "^4.1.0",
     "aws-sdk": "^2.222.1",
     "micro": "^9.1.4",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "require-env": "^0.2.1"
   },
   "devDependencies": {
